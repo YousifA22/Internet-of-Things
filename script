@@ -1,0 +1,11 @@
+gcc controller.c -o controller
+gcc sensor.c -o sensor
+gcc acuator.c -o acuator
+gcc cloud.c -o cloud
+
+xterm -T cloud &
+xterm -T controller &
+xterm -T acuator &
+xterm  -T sensor &
+
+
