@@ -3,7 +3,5 @@ step 2. run ./controller in controller window
 step 3. run ./acuator in acuator window
 step 4. run ./cloud in cloud window
 step 5. run ./sensor in sensor window
-step 6 . enter ctrl + z in the controller and sensor windows to reset them
-step 7. repeat step 2 and 5
-step 8. eneter the name of the sensor you would like (no spaces!)
-step 9. enter the amount you would like your sensor to increase by! (enter 7)
+step 6. eneter the name of the sensor you would like (no spaces!)
+step 7. enter the amount you would like your sensor to increase by! (enter 7)
